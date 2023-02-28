@@ -1,0 +1,15 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  encrypted_text: px8RS4QVaK1Jup1W0BAh9HodTBwgdNI4E2fAzR0SvX5Z11b/KiAkaC3TaX+mRfRdBNPRpE+VOyLZ8by6sfkOxCHJuDG06ZJB8I/DtzzWZjNfDh17fmloX4LXIicnp+tiYURJ2XNENiYvFF9GdoBfBnj8i9KYav/TUdXLm/+aePc=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  time: "Tue, 28 Feb 2023 12:09:44 UTC"
+record: -1
+post_submission_on_open: true
